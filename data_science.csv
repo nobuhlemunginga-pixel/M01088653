@@ -1,0 +1,7 @@
+dataset,rows_loaded,rows_expected
+survey_2026,1187,1200
+sales_q1,1250,1200
+customers,450,1000
+inventory,930,1000
+finance,1010,1000
+feedback,600,1000
